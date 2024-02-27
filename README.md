@@ -11,3 +11,14 @@ Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 
 ## Type :
 - ipynb
+
+## Content :
+- Importance in AI Tools
+- Benefits of Prompt Engineering in Business
+- Prompt Engineering with LLM Model Like ChatGPT
+- Prompt Engineering Techniques
+- Additional Strategies
+- Practice With Python Project
+- Using "N-shot" Prompting strategy to Ask Further Question
+- Prompt Engineering with Langchain
+- Prompt Engineering With IBM Watsonx ( Not Yet Studied )
